@@ -1,0 +1,71 @@
++20 moxie.
+Horde players invisible in Goldshire.
+Alliance players invisible in Brill.
++20 shoplifting.
+Rolls will always win.
+That piece of gear you've been trying to get for months will drop.
+Free haircuts.
+Free repairs.
++10 stick-to-it-iveness
+Swords will act as bows. And shoot snakes!
+Mages will 1-shot warlocks in WSG.
+Warlocks will 1-shot hunters in WSG.
+Rogues can't hit you.
+Priest bubbles won't pop.
+Levitate goes, like, really high, man.
+Brew of the month club comes twice a month.
++2000 gold.
+300% increase in movement speed when being chased by Gnomes.
+300% increase in movement speed when being chased by Tauren.
+300% increase in movement speed when being chased by Humans.
+300% increase in movement speed when being chased by Night Elves.
+300% increase in movement speed when being chased by Blood Elves.
+300% increase in movement speed when being chased by Dwarves.
+300% increase in movement speed when being chased by Draenei.
+300% increase in movement speed when being chased by Orcs.
+300% increase in movement speed when being chased by Forsaken.
+300% increase in movement speed when being chased by Trolls.
+300% increase in movement speed when being chased by Pandaren.
+300% increase in movement speed when being chased by Worgen.
+300% increase in movement speed when being chased by Goblins.
+Summons an army of critters when you really need them.
+You never have to quest in Uldum if you don't want to.
++100 intellect in duels with Gnomes.
++100 intellect in duels with Taren.
++100 intellect in duels with Humans.
++100 intellect in duels with Night Elves.
++100 intellect in duels with Blood Elves.
++100 intellect in duels with Dwarves.
++100 intellect in duels with Draenei.
++100 intellect in duels with Orcs.
++100 intellect in duels with Forsaken.
++100 intellect in duels with Trolls.
++100 intellect in duels with Pandaren.
++100 intellect in duels with Worgen.
++100 intellect in duels with Goblins.
+Death Knights can't see you.
+Shaman can cast Pally spells.
+Shaman can cast Mage spells.
+Shaman can cast Druid spells.
+Shaman can cast Priest spells.
+Shaman can cast Warlock spells.
+Mages can cast Pally spells.
+Mages can cast Shaman spells.
+Mages can cast Druid spells.
+Mages can cast Priest spells.
+Mages can cast Warlock spells.
+Warlocks can cast Pally spells.
+Warlocks can cast Shaman spells.
+Warlocks can cast Druid spells.
+Warlocks can cast Priest spells.
+Warlocks can cast Mage spells.
+Priests can cast Pally spells.
+Priests can cast Shaman spells.
+Priests can cast Druid spells.
+Priests can cast Warlock spells.
+Priests can cast Mage spells.
+Druids can cast Pally spells.
+Druids can cast Shaman spells.
+Druids can cast Priest spells.
+Druids can cast Warlock spells.
+Druids can cast Mage spells.
